@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "first streams",
+      "description": "fuckin new stream",
+      "id": 1
+    },
+    {
+      "title": "fuckin first",
+      "description": "streams",
+      "id": 2
+    },
+    {
+      "title": "behavior unexpected edited",
+      "description": "new awesome stream",
+      "id": 4
+    },
+    {
+      "title": "Programmatic navi",
+      "description": "You should see this on the list page. maybe made by patch",
+      "userId": "100899831854853915340",
+      "id": 5
+    },
+    {
+      "title": "Me Stream Component REUSESEEEEE",
+      "description": "Watch me fefactor some components",
+      "userId": "100899831854853915340",
+      "id": 6
+    }
+  ]
+}
