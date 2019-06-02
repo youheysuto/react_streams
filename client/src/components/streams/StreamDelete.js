@@ -11,7 +11,6 @@ class StreamDelete extends React.Component{
 
     componentDidMount(){
         this.props.fetchStream(this.props.match.params.id);
-        console.log(this.props);
     }
 
     renderActions(){
